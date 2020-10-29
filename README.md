@@ -28,6 +28,7 @@ webrtc original code from : https://github.com/googlecodelabs/webrtc-web/tree/ma
    https://m.blog.naver.com/PostView.nhn?blogId=baekmg1988&logNo=221454486746&proxyReferer=https:%2F%2Fwww.google.com%2F (Korean)
    
   한국어 설명 :
+  
   해당 코드는 2020년 '솔직 챌린지' 응모를 위해 개발한 것으로, 아동 학대 모니터링 기능을 추가한 webrtc 기반의 멘토링 사이트를 구현하는 것이 목표였습니다.
   
   웹캠은 npm 설치와 OpenSSL 세팅 이전에는 작동하지 않을 것입니다. 링크된 주소를 참고하여 설치해주세요.
