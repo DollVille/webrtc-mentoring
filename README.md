@@ -24,6 +24,8 @@ webrtc original code from : https://github.com/googlecodelabs/webrtc-web/tree/ma
    npm install and basic setting before work this code :
    https://forest71.tistory.com/211 (Korean)
    
+   https://forest71.tistory.com/213?category=788767 (Korean)
+   
    you'll also need OpenSSL to work it properly : 
    https://m.blog.naver.com/PostView.nhn?blogId=baekmg1988&logNo=221454486746&proxyReferer=https:%2F%2Fwww.google.com%2F (Korean)
    
